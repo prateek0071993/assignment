@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: RecommendationService
+
+server:
+  port: 8090
